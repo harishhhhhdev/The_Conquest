@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Basics;
 
 public class SwapNumbers {
     public static void main(String[] args) {
