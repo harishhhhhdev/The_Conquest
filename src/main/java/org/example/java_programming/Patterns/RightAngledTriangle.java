@@ -16,3 +16,6 @@ public class RightAngledTriangle {
 }
 
 
+//git add
+//git commit -m "✅ Q1: Right-Angled Triangle pattern with Tanglish explanation"
+//git push
