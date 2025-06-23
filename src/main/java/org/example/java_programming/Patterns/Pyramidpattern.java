@@ -1,5 +1,7 @@
 package org.example.java_programming.Patterns;
 
+//PYRAMID PATTERN
+
 public class Pyramidpattern {
     public static void main(String[] args) {
         int rows = 5;
